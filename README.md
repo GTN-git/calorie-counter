@@ -14,7 +14,7 @@
 ## Description
 An application that stores your daily caloric intake and tracks your progress against user defined goals
 
-View the application in action [here](https://{your-heroku-link}.herokuapp.com/).
+View the application in action [here](https://calorie-tracker-gtn.herokuapp.com/).
 
 ## Screenshot
 ![Screenshot](./public/img/screenshots/001.jpg)
@@ -33,7 +33,7 @@ View the application in action [here](https://{your-heroku-link}.herokuapp.com/)
     =============
     = Git Setup =
     =============
-	$ git clone https://github.com/{your-username}/calorie-tracker
+	$ git clone https://github.com/GTN-git/calorie-tracker
 	$ cd ./tech-blog
 	$ npm install
 
